@@ -1,7 +1,7 @@
 # cubesat-lake-tracking
 Matlab workflow for Planet Labs CubeSats lake tracking workflow written by Sarah Cooley, as described in Cooley et al. (2019), Arctic-Boreal Lake Dynamics Revealed Using CubeSat Imagery, Geophysical Research Letters. A complete description of this method can be found in the Supplementary Information for that paper. The entire workflow is designed to be used for Planet Labs Ortho Tiles (both RapidEye and PlanetScope) and loops through each Planet Labs tile. 
 
-All scripts (c) Sarah Cooley 2020. Please contact me at sarah_cooley (at) brown (dot) edu with any questions or for further information. Any use of these scripts should credit Sarah Cooley and Cooley et al. GRL, 2019.
+All scripts (c) Sarah Cooley 2020. Please contact me at sarah_cooley (at) brown (dot) edu with any questions or for further information. Any use of these scripts should credit Sarah Cooley and Cooley et al. (2019).
 
 
 # Initial Classification and Tracking Scripts 
